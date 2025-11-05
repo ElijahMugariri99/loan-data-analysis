@@ -203,9 +203,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **Dataquest.io** - Project development and analysis methodology
-- **Pandas Development Team** - For the excellent data manipulation library
-- **NumPy Community** - For numerical computing capabilities
-- **Open Source Community** - For continuous inspiration and support
 
 <div align="right">
 
