@@ -14,7 +14,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="loan-data-analysis",
     version="1.0.0",
-    author="Mission 165 Solutions",
+    author="Elijah Mugariri",
     description="A comprehensive data analysis project for loan data using memory-efficient techniques",
     long_description=long_description,
     long_description_content_type="text/markdown",
