@@ -195,15 +195,6 @@ The script performs the following operations:
 </details>
 
 <details closed>
-<summary>Contributor Graph</summary>
-<br>
-<p align="left">
-   <a href="https://github.com{/ElijahMugariri99/loan-data-analysis.git/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=ElijahMugariri99/loan-data-analysis.git">
-   </a>
-</p>
-</details>
-
 ---
 
 ## 📄 License
