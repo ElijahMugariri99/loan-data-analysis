@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Loan Data Analysis - Mission 165 Solutions
+Loan Data Analysis
 
 This script analyzes loan data from 2007 using pandas with memory optimization techniques.
 It processes the data in chunks to handle large datasets efficiently and performs
