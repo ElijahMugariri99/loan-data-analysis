@@ -169,10 +169,6 @@ The script performs the following operations:
 
 ## Contributing
 
-- **💬 [Join the Discussions](https://github.com/ElijahMugariri99/loan-data-analysis.git/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/ElijahMugariri99/loan-data-analysis.git/issues)**: Submit bugs found or log feature requests for the `loan-data-analysis.git` project.
-- **💡 [Submit Pull Requests](https://github.com/ElijahMugariri99/loan-data-analysis.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-
 <details closed>
 <summary>Contributing Guidelines</summary>
 
