@@ -81,9 +81,8 @@ loan-data-analysis/
 
 - **Python 3.6+** - Programming language
 - **pip** - Package manager
+- **loans_2007.csv** - dataset in Folder Dataset
 
-Download the dataset: - Get `loans_2007.csv` from [Kaggle Lending Club Dataset](https://www.kaggle.com/datasets/wendykan/lending-club-loan-data)
-- Place it in the project root directory - `loans_2007.csv` (loan data from 2007)
 
 **Required Python packages:**
 - `pandas >= 1.0.0` - Data manipulation and analysis
